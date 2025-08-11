@@ -1,0 +1,23 @@
+.custom-gradient {
+  background: rgb(112, 43, 146)
+}
+
+ul>li{
+        font-size: 20px;
+}
+
+@media (max-width: 991px) {
+    .navbar-collapse{
+        position: absolute;
+        top: 100%;
+        right: 0;
+        background:  rgb(112, 43, 146);
+        width: 200px;
+        padding: 1.5rem;
+        border-radius: 5px;
+    }
+    ul>li{
+        font-size: 20px;
+    }
+}
+ 
